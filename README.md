@@ -186,10 +186,6 @@ int main() {
 }
 
 13. Print a right-angled triangle of asterisks:
-    *
-    **
-    ***
-    ****
 
 #include <stdio.h>
 
@@ -207,11 +203,6 @@ int main() {
 
 14. Print a right-angled triangle with numbers:
     
-    1
-    12
-    123
-    1234
-    
 
 #include <stdio.h>
 
@@ -228,10 +219,6 @@ int main() {
 
 15. Print a right-angled triangle with repeated numbers:
     
-    1
-    22
-    333
-    4444
 #include <stdio.h>
 
 int main() {
